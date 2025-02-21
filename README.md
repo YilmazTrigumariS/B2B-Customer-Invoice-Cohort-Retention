@@ -1,6 +1,6 @@
 # Customer Retention Analysis for B2B Accounts Receivable Management with Cohort
 
-Developed by: Yilmaz Trigumari Syah Putra, Nabila Lailinajma, Angga Sukma Budi, Kerin M, Troy Kornelius
+Analysis by: Yilmaz Trigumari Syah Putra, Nabila Lailinajma, Angga Sukma Budi, Kerin M, Troy Kornelius
 
 ## Overview
 This project analyzes customer retention in a B2B accounts receivable management company. The study aims to understand retention trends, identify customer patterns, and explore relationships between retention and various factors such as currency, business line, and payment terms.
